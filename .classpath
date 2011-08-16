@@ -5,11 +5,12 @@
 	<classpathentry exported="true" kind="lib" path="gnujaxp.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
 	<classpathentry exported="true" kind="lib" path="itext-1.4.8.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
 	<classpathentry exported="true" kind="lib" path="jcommon-1.0.8.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
-	<classpathentry exported="true" kind="lib" path="jfreechart-1.0.4.jar" sourcepath="jfreechart-1.0.4.zip"/>
+	<classpathentry exported="true" kind="lib" path="jfreechart-1.0.4.jar" sourcepath="jfreechart-1.0.4-source.zip"/>
 	<classpathentry exported="true" kind="lib" path="jfreechart-1.0.4-experimental.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
 	<classpathentry exported="true" kind="lib" path="jfreechart-1.0.4-swt.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
 	<classpathentry exported="true" kind="lib" path="junit.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
 	<classpathentry exported="true" kind="lib" path="servlet.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
 	<classpathentry exported="true" kind="lib" path="swtgraphics2d.jar" sourcepath="net.kenevans.jfreechartsrc.zip"/>
+	<classpathentry kind="lib" path="jfreechart-1.0.4-source.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
